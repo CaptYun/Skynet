@@ -42,7 +42,7 @@ python scenario1_simulation.py
 ```
 
 Or view/edit the Jupyter version in:
-- [Google Colab](https://colab.research.google.com/)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CaptYun/Skynet/blob/main/code/scenario1_simulation.ipynb)
 - VS Code + Jupyter extension
 - Jupyter Notebook
 
