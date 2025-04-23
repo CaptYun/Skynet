@@ -41,10 +41,8 @@ cd Skynet/code
 python scenario1_simulation.py
 ```
 
-Or view/edit the Jupyter version in:
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CaptYun/Skynet/blob/main/code/scenario1_simulation.ipynb)
-- VS Code + Jupyter extension
-- Jupyter Notebook
+Or use Google Colab with this notebook:  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1sA0TTzTcb6nptnAtf-_wApb26fZY7KOd)
 
 ---
 
